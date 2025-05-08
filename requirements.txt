@@ -20,7 +20,7 @@ lxml==4.9.1
 MarkupSafe==1.1.1
 mccabe==0.6.1
 nodeenv==1.4.0
-pathspec==0.8.0
+pathspec>=0.11.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
 pylint==2.5.2
