@@ -20,13 +20,14 @@ lxml
 MarkupSafe
 mccabe
 nodeenv
-pathspec>=0.11.1
+pathspec
 pycodestyle
 pyflakes
 pylint
 PyMySQL
 python-dotenv
-PyYAML.8
+PyYAML
+regex
 six
 SQLAlchemy
 toml
